@@ -34,7 +34,7 @@ export function Footer() {
         </div>
 
         <p className="mt-12 font-mono text-xs text-muted-foreground">
-          © {new Date().getFullYear()} Clinton Gikonyo · Built with v0
+          © {new Date().getFullYear()} Clinton Gikonyo ·
         </p>
       </div>
     </footer>
