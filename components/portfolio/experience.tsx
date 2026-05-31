@@ -24,11 +24,7 @@ const education = [
     org: "Strathmore University",
     period: "Jan – Feb 2024",
   },
-  {
-    title: "KCSE — Mean Grade: B-",
-    org: "Pioneer School",
-    period: "2018 – 2022",
-  },
+  
 ]
 
 const certifications = [
