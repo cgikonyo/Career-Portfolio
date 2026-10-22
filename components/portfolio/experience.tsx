@@ -44,7 +44,7 @@ const certifications = [
     title: "Introduction To Data Science" ,
     org: "Moringa School" ,
     note: "Issued on Sep 2026" ,
-    image: "C:\Users\Njambi\OneDrive - Strathmore University\Pictures\Screenshots\Introduction-To-Data-Science.png"
+    image: "/certificates/Introduction-To-Data-Science.png"
   }
 ]
 
